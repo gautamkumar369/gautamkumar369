@@ -77,7 +77,7 @@ Graphic Era Deemed to be University
 
 📧 Email: **gautamtech.geu@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/gautamtechanalyst](https://www.linkedin.com/in/gautamtechanalyst/)  
-💻 GitHub: [github.com/techiegautam](https://github.com/techiegautam)  
+💻 GitHub: [github.com/techiegautam](https://github.com/gautamkumar369)  
 
 ---
 
