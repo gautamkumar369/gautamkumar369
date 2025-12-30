@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there 👋, I'm Gautam Kumar  
 
-<!--
-**gautamkumar369/gautamkumar369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | Data Engineer | Python & AWS Enthusiast**  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+
+I am a **data-driven professional** with strong experience in **Python, SQL, AWS, and Power BI**.  
+I enjoy transforming **raw, complex datasets into meaningful insights** and building **scalable data pipelines** that support business decisions.
+
+🎯 Currently focused on:
+- Data Quality & Automation  
+- Cloud-based Data Pipelines (AWS)  
+- Analytics & Dashboarding  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Data Processing**  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL | PySpark  
+
+**Databases & Cloud**  
+- MongoDB | MySQL  
+- AWS S3  
+
+**Analytics & BI**  
+- Power BI (Dashboards, KPIs)  
+- Advanced Excel | Google Sheets  
+
+**Data Engineering**  
+- ETL Pipelines  
+- Data Cleaning & Validation  
+- Data Modeling & Profiling  
+
+---
+
+## 📊 Featured Projects  
+
+### 🔹 Scalable Cloud Data Processing Automation (AWS)  
+- Automated S3-based data ingestion pipeline  
+- Processed large compressed JSON/JSONL datasets  
+- Converted raw data into analytics-ready CSV & Parquet formats  
+
+### 🔹 Swiggy Instamart Product Analytics Dashboard  
+- Power BI dashboard on **50+ million rows** of retail data  
+- Pricing, availability & brand performance insights  
+- City & category-level KPI tracking  
+
+---
+
+## 🎓 Education  
+
+🎓 **Master of Computer Applications (MCA)**  
+Graphic Era Deemed to be University  
+📈 CGPA: **8.10**  
+
+---
+
+## 🏆 Certifications  
+
+- Google Data Analytics – Coursera  
+- Data Science using Python – 360DigiTMG  
+- Data Science & AI – UTM Malaysia  
+- Artificial Intelligence & Deep Learning – 360DigiTMG  
+- Power BI – 360DigiTMG  
+
+---
+
+## 🤝 Let’s Connect  
+
+📧 Email: **gautamtech.geu@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/gautamtechanalyst](https://www.linkedin.com/in/gautamtechanalyst/)  
+💻 GitHub: [github.com/techiegautam](https://github.com/techiegautam)  
+
+---
+
+⭐ *Always open to collaboration on data analytics, data engineering & cloud projects!*  
