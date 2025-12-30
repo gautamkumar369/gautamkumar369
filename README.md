@@ -21,20 +21,23 @@ I enjoy transforming **raw, complex datasets into meaningful insights** and buil
 
 **Languages & Data Processing**  
 - Python (Pandas, NumPy, Matplotlib)  
-- SQL | PySpark  
+- PySpark  
 
 **Databases & Cloud**  
 - MongoDB | MySQL  
-- AWS S3  
+- AWS S3 | Big Query
 
 **Analytics & BI**  
 - Power BI (Dashboards, KPIs)  
-- Advanced Excel | Google Sheets  
+- Advanced Excel | Google Sheets
+- Data Cleansing & Wrangling
 
 **Data Engineering**  
 - ETL Pipelines  
 - Data Cleaning & Validation  
-- Data Modeling & Profiling  
+- Data Modeling & Profiling
+- Machine Learning
+- Exploratory Data Analysis (EDA)
 
 ---
 
